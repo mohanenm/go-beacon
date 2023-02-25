@@ -9,6 +9,7 @@ require (
 	github.com/mgutz/logxi v0.0.0-20161027140823-aebf8a7d67ab // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/raff/goble v0.0.0-20200327175727-d63360dcfd80 // indirect
+	github.com/stretchr/testify v1.8.1 // indirect
 	github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07
-	golang.org/x/net v0.0.0-20210423184538-5f58ad60dda6
+	golang.org/x/net v0.7.0
 )
